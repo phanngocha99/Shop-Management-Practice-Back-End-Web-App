@@ -38,8 +38,3 @@ npm i express-session
 - sequelize:
 - ORM
 
-## Free Hosting
-
-Web Server
-
-- Database Server
