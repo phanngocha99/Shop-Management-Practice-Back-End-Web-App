@@ -1,4 +1,4 @@
-PTUDW-Project-EShop
+PTUDW-Project-Shop
 
 ## Front-End
 
